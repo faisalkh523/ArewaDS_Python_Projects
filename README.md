@@ -1,1 +1,6 @@
-# ArewaDS_Python_Projects
+### This Repository contains my first hands-on project with arewa data science, i was required to work on visualisation of data.
+## About The Data used
+The data which is visualized in python using the matplot library is a data i obtained from the experiment i conducted in Telecommunication laboratory in my 400 Level at Electrical Engineering Department of Bayero University Kano, as a requisite for a course: Telecommunication Engineering 1 (ELE 4301). The Experiment title was "FM Modulator" carried out using TPS-3421 trainer. Frequency modulation (FM) is the process of varying the frequency of a carrier signal inaccordance with the intensity of the modulating signal or message signal while keeping the amplitude and phase constant. at different frequency from the generator serving as the carrier frequency(Fc), the corresponding voltage (Vi) which serve as the message signal was mwasured using a multimeter and the result was tabulated as shown in the table below. although there were little errors which were approximated. we were able to later use a graph sheet to see the relationship between the carrier frequency and the message signal.
+
+| Fc | 1200 | 1100 | 1000 | 900 | 800 | 700 | 600 | 500 | 400 | 300 |
+|---|---|---|
